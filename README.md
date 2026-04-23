@@ -29,7 +29,7 @@ Expense Snap is a premium, high-fidelity finance management application designed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/IamAhmadHabib/Expense-Snap.git
+   git clone https://github.com/MuhamadTalha12/Expense-Snap.git
    ```
 2. Navigate to the project directory:
    ```bash
